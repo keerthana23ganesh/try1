@@ -2,7 +2,11 @@ package com.Practice;
 
 public class emp {
 
-	
+
+	private void payment() {
+	System.out.println("payment type");
+
+	}
 	public  emp() {
 	System.out.println("default const");
 }
